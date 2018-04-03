@@ -12,6 +12,7 @@ package com.company;
 // Be sure not to expose the inner workings of the Arraylist to MobilePhone
 // e.g. no ints, no .get(i) etc
 // MobilePhone should do everything with Contact objects only.
+// Second commit
 
 
 
